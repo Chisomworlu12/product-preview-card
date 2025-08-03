@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://product-preview-card-beryl-nu.vercel.app/)
 
 
 ## My process
